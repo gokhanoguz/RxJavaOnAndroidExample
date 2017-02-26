@@ -1,1 +1,1 @@
-This is an example project that shows usege of RxJava in an Android application.
+This is an example project that shows usage of RxJava in an Android application.
